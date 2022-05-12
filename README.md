@@ -33,3 +33,9 @@ Here is a short overview of the repository contents:
 - explain_shap : use SHAP to create word scores
 - explain_lime : use LIME to create word scores
 - evaluation.ipynb : Notebook for combining aggregated word scores with sentence score of BERTScore
+
+## References:
+
+- Generalized Mean: https://en.wikipedia.org/wiki/Generalized_mean
+- LIME: https://github.com/marcotcr/lime
+- SHAP: https://shap.readthedocs.io/en/latest/
